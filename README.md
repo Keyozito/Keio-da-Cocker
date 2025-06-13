@@ -1,4 +1,5 @@
-# Keio da Cocker ![Static Badge](https://img.shields.io/badge/Version%3A-2.4.10-purple)
+![keio_da_cocker](https://github.com/user-attachments/assets/dacd947d-52d8-4444-93c7-80b7c9bbfb4c)
+# ![Static Badge](https://img.shields.io/badge/Version%3A-2.4.10-purple)
 
 **Keio da Cocker** is a Minecraft modpack made for fun, exploration, and chaos—with a strong focus on RPG elements, tech mods, adventuring, and of course... delicious food.
 *Originally built to play with friends, this pack is all about having fun, discovering cool stuff, and getting lost in a modded world full of surprises.*
