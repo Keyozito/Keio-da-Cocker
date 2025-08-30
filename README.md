@@ -29,3 +29,5 @@ Some texture packs were modified, heres the original ones:
 [TCS](https://www.curseforge.com/minecraft/texture-packs/create-computercraft) by End_Rage
 
 [Create: ComputerCraft](https://www.curseforge.com/minecraft/texture-packs/create-computercraft) by End_Rage
+
+[Create: Simple Storage]([https://www.curseforge.com/minecraft/texture-packs/create-computercraft](https://www.curseforge.com/minecraft/texture-packs/create-simple-storage)) by End_Rage
