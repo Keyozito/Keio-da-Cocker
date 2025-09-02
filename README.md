@@ -20,14 +20,3 @@
    - .minecraft/versions/Keio da Cocker
 
 The file should extract to sub-files/folders, so pay attention so you don't have to download the modpack again!
-
-# 🔗 Credits
-Some texture packs were modified, heres the original ones:
-
-[Excalibur](https://www.curseforge.com/minecraft/texture-packs/excalibur) by Maffhew
-
-[TCS](https://www.curseforge.com/minecraft/texture-packs/create-computercraft) by End_Rage
-
-[Create: ComputerCraft](https://www.curseforge.com/minecraft/texture-packs/create-computercraft) by End_Rage
-
-[Create: Simple Storage]([https://www.curseforge.com/minecraft/texture-packs/create-computercraft](https://www.curseforge.com/minecraft/texture-packs/create-simple-storage)) by End_Rage
