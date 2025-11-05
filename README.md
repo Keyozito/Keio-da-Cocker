@@ -9,11 +9,17 @@
 
 # 📦 Modpack Info
 * Minecraft Version: 1.20.1
-* Modpack Version: 2.4.10
 * Mod Loader:🧵 Fabric-0.16.10
 * Current Status: 🛠️ In Development
 
 # 📂 How to update it
+### ⚙️ K.O Launcher
+1. Download **[K.O Launcher](https://github.com/Keyozito/K.O-Launcher)** latest release, **Keio da Cocker** own installer!
+2. Type your _current_ version to check for updates
+3. Wait for the update finish downloading
+4. Play!
+
+### 🛠️ Manual Update
 1. Download the new version pack, in each update will be available as a .zip file
 2. Read the patchnotes inside the update files tab, or open the file and read the inside patchnotes
 3. Follow the instructions in the first section fo the file *(for example, delete X folder, or enable Y texture pack)*
