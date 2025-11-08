@@ -15,9 +15,10 @@
 # 📂 How to update it
 ### ⚙️ K.O Launcher
 1. Download **[K.O Launcher](https://github.com/Keyozito/K.O-Launcher)** latest release, **Keio da Cocker** own installer!
-2. Type your _current_ version to check for updates
-3. Wait for the update finish downloading
-4. Play!
+2. Select you _modpack path_, where to download the updates.
+3. Type your _current_ version to check for updates
+4. Wait for the update finish downloading
+5. Play!
 
 ### 🛠️ Manual Update
 1. Download the new version pack, in each update will be available as a .zip file
